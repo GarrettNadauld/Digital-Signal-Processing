@@ -1,0 +1,16 @@
+../Core/Src/myaudio.c:118:6:audio_init	3
+../Core/Src/myaudio.c:203:13:fill_buffer_with_square_wave	3
+../Core/Src/myaudio.c:233:13:ConvertSampleBufferToDMABuffer	2
+../Core/Src/myaudio.c:257:13:ExtractSamplesFromDMABuffer	2
+../Core/Src/myaudio.c:268:13:CopySampleBuffer	2
+../Core/Src/myaudio.c:287:13:My_SAI_ClockConfig	4
+../Core/Src/myaudio.c:325:13:My_AUDIO_OUT_MspInit	1
+../Core/Src/myaudio.c:381:13:My_SAI_Out_Init	1
+../Core/Src/myaudio.c:434:13:My_AUDIO_IN_MspInit	1
+../Core/Src/myaudio.c:485:13:My_SAI_In_Init	1
+../Core/Src/myaudio.c:530:6:BSP_AUDIO_IN_TransferComplete_CallBack	1
+../Core/Src/myaudio.c:535:6:BSP_AUDIO_IN_HalfTransfer_CallBack	1
+../Core/Src/myaudio.c:540:6:HAL_SAI_RxHalfCpltCallback	1
+../Core/Src/myaudio.c:547:6:HAL_SAI_RxCpltCallback	1
+../Core/Src/myaudio.c:553:6:DMA2_Stream4_IRQHandler	1
+../Core/Src/myaudio.c:558:6:DMA2_Stream1_IRQHandler	1

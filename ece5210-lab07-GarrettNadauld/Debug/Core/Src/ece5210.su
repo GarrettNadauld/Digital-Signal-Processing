@@ -1,0 +1,3 @@
+../Core/Src/ece5210.c:35:6:init_firwin	40	static
+../Core/Src/ece5210.c:87:9:fir_fixed	32	static
+../Core/Src/ece5210.c:111:9:process_sample	24	static

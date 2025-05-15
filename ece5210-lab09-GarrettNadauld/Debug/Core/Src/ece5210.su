@@ -1,0 +1,5 @@
+../Core/Src/ece5210.c:54:6:init_firwin	32	static
+../Core/Src/ece5210.c:92:7:lpf	40	static
+../Core/Src/ece5210.c:113:7:hpf	40	static
+../Core/Src/ece5210.c:134:9:process_sample_left	32	static
+../Core/Src/ece5210.c:149:9:process_sample_right	32	static
